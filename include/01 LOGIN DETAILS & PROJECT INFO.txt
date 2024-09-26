@@ -1,0 +1,14 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: online_food_ordering_system**
+
+**Developed by Salman Ansari**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Admin Login Details**
+
+Username: Sk_Yadav
+Password: **********
+

@@ -1,0 +1,13 @@
+
+
+**Database Name: code_camp_bd_fos**
+
+**Developed by Sk Yadav**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Admin Login Details**
+
+Username: skyadav
+Password: **********
